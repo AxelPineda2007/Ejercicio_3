@@ -1,0 +1,7 @@
+C:\Users\axelp\OneDrive\Escritorio\Arcides\Ejercicio3CS. 2003634\Ejercicio3CS. 2003634\bin\Debug\Ejercicio3CS. 2003634.exe.config
+C:\Users\axelp\OneDrive\Escritorio\Arcides\Ejercicio3CS. 2003634\Ejercicio3CS. 2003634\bin\Debug\Ejercicio3CS. 2003634.exe
+C:\Users\axelp\OneDrive\Escritorio\Arcides\Ejercicio3CS. 2003634\Ejercicio3CS. 2003634\bin\Debug\Ejercicio3CS. 2003634.pdb
+C:\Users\axelp\OneDrive\Escritorio\Arcides\Ejercicio3CS. 2003634\Ejercicio3CS. 2003634\obj\Debug\Ejercicio3CS. 2003634.csproj.AssemblyReference.cache
+C:\Users\axelp\OneDrive\Escritorio\Arcides\Ejercicio3CS. 2003634\Ejercicio3CS. 2003634\obj\Debug\Ejercicio3CS. 2003634.csproj.CoreCompileInputs.cache
+C:\Users\axelp\OneDrive\Escritorio\Arcides\Ejercicio3CS. 2003634\Ejercicio3CS. 2003634\obj\Debug\Ejercicio3CS. 2003634.exe
+C:\Users\axelp\OneDrive\Escritorio\Arcides\Ejercicio3CS. 2003634\Ejercicio3CS. 2003634\obj\Debug\Ejercicio3CS. 2003634.pdb
